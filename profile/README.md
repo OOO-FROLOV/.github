@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="#что-делаем">Что делаем</a> &nbsp; / &nbsp;
-  <a href="#как-работаем">Как работаем</a> &nbsp; / &nbsp;
-  <a href="#технологии">Технологии</a>
+  <a href="#user-content-что-делаем">Что делаем</a> &nbsp; / &nbsp;
+  <a href="#user-content-как-работаем">Как работаем</a> &nbsp; / &nbsp;
+  <a href="#user-content-технологии">Технологии</a>
 </p>
 
 ### Что делаем
